@@ -32,3 +32,13 @@ canvas
     line-height: 2;
     text-align: center;
 }
+
+#name
+{
+    font-size: 23px;
+}
+
+#input
+{
+    border-radius: 2px;
+}
