@@ -4,6 +4,8 @@ function setup()
 {
     canvas = createCanvas(480, 280);
     canvas.position(400, 260);
+    video = createCapture(VIDEO);
+    video.hide();
   
 
 
